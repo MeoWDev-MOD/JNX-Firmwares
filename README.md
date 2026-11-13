@@ -1,5 +1,7 @@
 # JNX-Firmwares
 
+🌐 **[Read in English](README.en.md)**
+
 Repositório de firmwares do aplicativo **JNX MOD** ([JNX-Updater](https://github.com/MeoWDev-MOD/JNX-Updater)).
 
 ## Como é organizado
